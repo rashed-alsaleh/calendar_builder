@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Resize angle, count, and stage on keypoint number change (#7598)
