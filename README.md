@@ -1,1 +1,1 @@
-Improve Coral Edge TPU guide (#8160)
+Compare plt.get_backend() in lowercase (#8409)
