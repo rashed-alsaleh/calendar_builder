@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
