@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
