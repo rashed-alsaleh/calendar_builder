@@ -1,1 +1,1 @@
-Update format.yml to pull_request_target (#7460)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
