@@ -1,1 +1,1 @@
-Move Google Drive to slow tests (#8163)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
