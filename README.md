@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Compare plt.get_backend() in lowercase (#8409)
