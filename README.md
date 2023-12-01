@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Move Google Drive to slow tests (#8163)
