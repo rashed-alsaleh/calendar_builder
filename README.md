@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
