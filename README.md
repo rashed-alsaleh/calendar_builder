@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+Fix PNNX ubuntu -> linux bug (#7050)
