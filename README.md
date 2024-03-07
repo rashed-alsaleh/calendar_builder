@@ -1,1 +1,1 @@
-fix resume training
+Remove unused variables (#8511)
