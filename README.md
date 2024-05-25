@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Update Docs Home and Neural Magic pages (#7243)
