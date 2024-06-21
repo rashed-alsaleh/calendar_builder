@@ -1,1 +1,1 @@
-added badges (#45)
+Update IoU capitalization (#8604)
