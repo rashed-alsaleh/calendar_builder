@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
