@@ -1,1 +1,1 @@
-OBB Docs updates (#7568)
+Update Discord and Contributing Guide URLs (#9270)
