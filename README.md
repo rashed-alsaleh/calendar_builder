@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
