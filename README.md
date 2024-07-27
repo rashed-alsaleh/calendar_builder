@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Update fraction arg to employ a random selection (#8234)
