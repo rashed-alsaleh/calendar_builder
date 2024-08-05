@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
