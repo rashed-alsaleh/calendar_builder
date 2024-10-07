@@ -1,1 +1,1 @@
-fix non-coco val
+Clean up unused imgsz (#7771)
