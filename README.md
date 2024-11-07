@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+OBB: Fix plot_images (#7592)
