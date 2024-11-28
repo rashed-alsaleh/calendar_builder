@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Update Twitter icon in Docs (#7711)
